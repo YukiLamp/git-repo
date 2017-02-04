@@ -1,2 +1,0 @@
-print("Wat's up?)
-read()
