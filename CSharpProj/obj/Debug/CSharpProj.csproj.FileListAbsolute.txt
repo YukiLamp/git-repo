@@ -1,6 +1,0 @@
-C:\Users\Сергей\GeekBrains\git-repo\CSharpProj\bin\Debug\CSharpProj.exe.config
-C:\Users\Сергей\GeekBrains\git-repo\CSharpProj\bin\Debug\CSharpProj.exe
-C:\Users\Сергей\GeekBrains\git-repo\CSharpProj\bin\Debug\CSharpProj.pdb
-C:\Users\Сергей\GeekBrains\git-repo\CSharpProj\obj\Debug\CSharpProj.csprojResolveAssemblyReference.cache
-C:\Users\Сергей\GeekBrains\git-repo\CSharpProj\obj\Debug\CSharpProj.exe
-C:\Users\Сергей\GeekBrains\git-repo\CSharpProj\obj\Debug\CSharpProj.pdb
